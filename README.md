@@ -1,5 +1,21 @@
 # Randomizer
 
+## Testing
+### Moving from Karma & Jasmine to Jest:
+* https://www.amadousall.com/how-to-set-up-angular-unit-testing-with-jest/
+* https://www.npmjs.com/package/@angular-builders/jest
+
+
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
