@@ -2,8 +2,9 @@
 
 ## Testing
 ### Moving from Karma & Jasmine to Jest:
-* https://www.amadousall.com/how-to-set-up-angular-unit-testing-with-jest/
 * https://www.npmjs.com/package/@angular-builders/jest
+* https://www.amadousall.com/how-to-set-up-angular-unit-testing-with-jest/
+
 
 
 
